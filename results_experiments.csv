@@ -1,0 +1,6 @@
+experiment,field macro F1,methodology group macro F1
+"n-gram range (1, 1)",0.602,0.396
+"n-gram range (1, 2)",0.617,0.392
+"n-gram range (1, 3)",0.615,0.394
+title only,0.378,0.411
+raw text (no preprocessing),0.622,0.336

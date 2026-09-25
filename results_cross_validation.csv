@@ -1,0 +1,17 @@
+target,model,accuracy,macro_precision,macro_recall,macro_f1,macro_f1_std
+discipline,Logistic Regression,0.8,0.825,0.758,0.772,0.086
+discipline,Naive Bayes,0.797,0.827,0.737,0.751,0.108
+discipline,Rule-based baseline,0.723,0.767,0.679,0.69,
+discipline,Decision Tree,0.58,0.534,0.528,0.524,0.033
+field,Logistic Regression,0.62,0.63,0.62,0.617,0.045
+field,Naive Bayes,0.603,0.621,0.603,0.601,0.057
+field,Rule-based baseline,0.497,0.574,0.497,0.503,
+field,Decision Tree,0.407,0.409,0.407,0.397,0.097
+methodology,Rule-based baseline,0.493,0.339,0.48,0.358,
+methodology,Decision Tree,0.527,0.247,0.249,0.239,0.039
+methodology,Logistic Regression,0.683,0.246,0.221,0.216,0.051
+methodology,Naive Bayes,0.653,0.153,0.167,0.143,0.011
+methodology_group,Rule-based baseline,0.517,0.452,0.535,0.452,
+methodology_group,Logistic Regression,0.693,0.531,0.379,0.392,0.095
+methodology_group,Decision Tree,0.487,0.316,0.321,0.308,0.055
+methodology_group,Naive Bayes,0.65,0.217,0.264,0.225,0.022

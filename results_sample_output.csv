@@ -1,0 +1,9 @@
+Publication ID,Predicted Discipline,Predicted Field,Field Confidence,Predicted Methodology (grouped),Methodology Confidence,Predicted Methodology (fine),Supporting Terms,True Field,True Methodology
+2608.30910v1,Intelligent Systems,Natural Language Processing,0.31,Experimental,0.9,Experimental,"llm, model, guided, language model, specific, training, corpus",Machine Learning,Experimental
+2609.00491v1,Intelligent Systems,Natural Language Processing,0.3,Experimental,0.74,Experimental,"llm, context, model, dataset, fine, training, improves",Natural Language Processing,Experimental
+2609.00427v1,Intelligent Systems,Artificial Intelligence,0.28,Experimental,0.55,Experimental,"reasoning, retrieval, fine, generation, real world, agent",Artificial Intelligence,Design Science
+2609.00043v1,Software and Security,Software Engineering,0.41,Theory and Review,0.39,Experimental,"theory, structure, definition, aspect, representation, perspective, behavior, boundary",Software Engineering,Theoretical
+2608.31007v1,Intelligent Systems,Natural Language Processing,0.4,Human and Field Studies,0.46,Qualitative,"interview, language, interaction, model, trained, strongest, clinical, patient, automatic",Human-Computer Interaction,Experimental
+2608.28001v1,Human-Centred Computing,Human-Computer Interaction,0.43,Human and Field Studies,0.51,Qualitative,"interview, focus group, preference, synthetic, generation, diversity, iterative, visual, design, human",Human-Computer Interaction,Design Science
+2609.00309v1,Software and Security,Cybersecurity,0.3,Experimental,0.65,Experimental,"inference, strategy, additional, llm, non, adversarial, channel, attack",Cybersecurity,Experimental
+2609.00196v1,Intelligent Systems,Machine Learning,0.38,Experimental,0.83,Experimental,"weight, model, simple, accuracy, fine, optimization",Machine Learning,Experimental
